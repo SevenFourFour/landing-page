@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+#header-div {
+    background-color: #1F2937;
+    display: flex;
+    padding: 30px 250px;
+    justify-content: space-between;
+}
+
+#header-link-container {
+    display:flex;
+    width:500px;
+    justify-content: space-between;
+}
+
+#header-logo-text {
+    font-size: 24px;
+    color: #F9FAF8
+}
+
+.dark-secondary-text {
+    font-size: 18px;
+    color: #E5E7EB
+}
