@@ -30,6 +30,7 @@
 #hero-div{
     display:flex;
     justify-content: space-between;
+    padding: 90px 290px;
 }
 
 #hero-main-text {
@@ -66,11 +67,11 @@ button {
     display:flex;
     flex-direction: column;
     align-items: center;
-    padding: 30px 290px;
+    padding: 80px 350px;
 }
 
 #info-header {
-    margin-bottom: 30px;
+    margin-bottom: 80px;
 }
 
 #pictures-container {
@@ -101,6 +102,73 @@ button {
     display: flex;
     flex-direction: column;
     align-items: center;
-    padding: 30px 290px;
+    padding: 130px 380px;
     background-color: #E5E7EB;
+}
+
+#quote-text {
+    font-size: 36px;
+    font-style: italic;
+    font-weight:lighter;
+    color: #1F2937;
+    text-align: justify;
+}
+
+#attr-div {
+    margin: 50px 0px;
+    width: 100%;
+    text-align: right;
+}
+
+#quote-attr {
+    font-weight: bolder;
+    color: #1F2937;
+    font-size: 36px;
+}
+
+#cta-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 130px 260px;
+}
+
+#cta-div {
+    background-color: #3882F6;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    justify-content: space-between;
+    align-items: center;
+    padding: 60px 120px;
+}
+
+#cta-text-container {
+    color: #F9FAF8;
+}
+
+#cta-button-container {
+    color: #F9FAF8;
+    width: 50%;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+#cta-button {
+    border: 2px solid #F9FAF8;
+    border-radius: 10px;
+}
+
+#footer {
+    background-color: #1F2937;
+    padding: 30px 290px;
+    display:flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+#footer-text-container {
+    color:#F9FAF8;
 }
