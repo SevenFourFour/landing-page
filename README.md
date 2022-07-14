@@ -5,3 +5,5 @@ This project encompasses the ablility to create a sample landing page based on s
 Click [here](https://cdn.statically.io/gh/TheOdinProject/curriculum/main/foundations/html_css/project/odin-project.png) to see the desired outcome of the landing page.
 
 Click [here](https://cdn.statically.io/gh/TheOdinProject/curriculum/main/foundations/html_css/project/colors_and_stuff.png) to see the style specifications of the webpage. 
+
+[A demo of the webpage can be found here](https://sevenfourfour.github.io/landing-page/)
